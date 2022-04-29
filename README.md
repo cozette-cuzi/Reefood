@@ -7,7 +7,7 @@ Service Science Project to practice Microservices using `Nodejs`.
 
 ```npm run start```
 
-### description
+### Description
 For the web serving part we used:  [Express](https://expressjs.com/)
 
 The **register**  endpoint ( `POST /register` ) 
