@@ -3,8 +3,9 @@
 Service Science Project to practice Microservices using `Nodejs`.
 
 ##### To start the project run
-`npm install`
-`npm run start`
+```npm install``` 
+
+```npm run start```
 
 ### description
 For the web serving part we used:  [Express](https://expressjs.com/)
